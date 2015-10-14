@@ -1,0 +1,28 @@
+PubExchange Premium Add-on Terms
+
+Premium Accounts
+PubExchange offers premium add-on packages to augment your use of PubExchange. By choosing to upgrade the free basic service to a premium add-on package, your account will be converted to a Premium Account.
+
+Billing
+PubExchange accepts credit cards and will automatically charge your credit card monthly. If PubExchange is unable to process your transaction using the credit card information provided, PubExchange reserves the right to suspend or revoke access to your account.
+
+If you have a Premium Account, but no longer qualify for your add-on package level, you will be notified by a PubExchange representative and given a 30-day grace period to either upgrade your Premium Account to a more expensive add-on package level, or revert your account back to the free, basic level.
+
+Should you elect to upgrade your Premium Account to a more expensive add-on package, the commencement date for your next renewal period will be reset and you will be billed for the first month or year of the upgraded level of service on a pro-rata basis. For example, if you begin your monthly billed Premium Account on February 15th, your next payment would be due on March 15th. On March 22, you upgrade your Premium Account to a more expensive add-on package and pay the new amount associated with the upgraded Premium Account you have selected, less the amount equal to 7 days at your previous Premium Account rate. Your next payment would then be due on April 22.
+
+PubExchange may change the fees and charges in effect, or add new fees and charges from time to time, but we will give you advance notice of these changes by email.If you want to use a different credit card or if there is a change in your credit card validity or expiration date, you may edit your information by accessing your account page. If your credit card reaches its expiration date, your continued use of the PubExchange constitutes your authorization for us to continue billing that credit card and you remain responsible for any uncollected amounts. It is your responsibility to keep your contact information and payment information current and updated.
+
+Support
+Premium Accounts are given preferred and priority status via PubExchange email support. Customers must first attempt to make all reasonable efforts to resolve the technical support problem and/or consult the PubExchange documentation before contacting support. A maximum of two hours of support time will be given to Premium Accounts each month for issues over which PubExchange does not have direct control or primary accountability.
+
+Cancelling Your Account
+Your Premium Account will continue in effect unless and until you cancel your Premium Account or we terminate it. You must cancel your Premium Account before it renews each month in order to avoid billing of the next month's fees to your credit card. PubExchange will bill the monthly fees associated with your Premium Account plus any applicable tax to the credit card you provide to us during registration (or to a different credit card if you change your account information).
+PubExchange Premium Accounts are prepaid and are non-refundable. PUBEXCHANGE DOES NOT PROVIDE REFUNDS OR CREDITS FOR ANY PARTIAL MONTHS. You may cancel your PubExchange Premium Account at anytime, and cancellation will be effective immediately. If you wish to cancel your Premium Account you may do so via your account page. Should you elect to cancel your Premium Account, please note that you will not be issued a refund for the most recently (or any previously) charged monthly fees.
+
+By signing up for a PubExchange Premium Account and providing PubExchange with your payment account information, you hereby agree to these payment terms and conditions.
+
+Contact
+info@pubexchange.com
+
+Version Control
+https://github.com/pubexchange/legal
