@@ -1,0 +1,40 @@
+PubExchange Privacy Policy
+
+Introduction
+
+On The Vine Media, LLC ("PubExchange") provides this privacy policy which applies to information collected through the website located at the domain PubExchange.com (the "Site") accessed via computer, mobile device, or other technology (collectively, the "Service").
+
+Information We Collect Automatically
+
+Unless you are a registered user of the Service, PubExchange does not automatically collect personally identifiable information in connection with your use of the Service. Whenever you visit or interact with the Service, PubExchange and our third party tracking-utility partners may use a variety of technologies that automatically collect information about how the Service is accessed and used ("Usage Information"). Usage Information may include the page visited, the time, referring URLs and other information normally transmitted in HTTP requests. This statistical data provides us with information about the use of the Service, such as how many visitors view a specific hyperlink, and which hyperlinks, if any, they click on. PubExchange and our third party tracking-utility partners may also gather certain information automatically and store it in log files ("Log Data"). This Log Data may include information such as your IP address, browser type, internet service provider, time stamp and referring pages, but does not identify individual users. PubExchange uses Log Data to monitor use of the Site and the services we offer.
+
+Information You Provide To Us
+
+When you sign up for the Service or otherwise communicate or interact with us, we may ask you to provide personally identifiable information, such as your name and e-mail address (collectively this information, along with any other information you provide us is "Personal Information"). If you are accepted to become a customer of PubExchange, we may request additional information from you via customer application forms, insertion orders and other forms. If you do not want your Personal Information collected, please do not submit it.
+
+Cookies
+
+If you are a registered user of the Service, PubExchange may use Session Cookies (as defined below) to keep you logged in to the Service. "Session Cookies" are small text files that PubExchange server's transfer to your computer's hard disk. Session Cookies are temporary and should be deleted automatically from your computer when you disconnect from or leave the Site.
+
+Sharing Of Information
+
+PubExchange cooperates with government and law enforcement officials or private parties, to enforce and comply with the law. PubExchange may disclose any information about you to government or law enforcement officials or private parties as PubExchange, in its sole discretion, believes necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of PubExchange or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+
+If any or all of the assets of PubExchange are acquired by, or merged with another entity, PubExchange will share with this entity some or all of the information collected through the Site.
+
+PubExchange may also share non-Personal Information, such as aggregate user statistics and Usage Information with third parties. We may combine your Usage Information with those of other users of the Service in order to share trend information with third parties, always in aggregated and anonymized form.
+
+Links to Other Sites
+
+When interacting with the Service, if you click on a link to a third party web site, you will be subject to their privacy policy and the company operating the web site may place a cookie or other files on your computer.
+
+Security Of Your Information
+
+We maintain tight controls over all the data we collect, retaining it in secured databases with strictly limited and controlled access rights, to ensure it is secure. When you enter sensitive information (such as login credentials) we encrypt that data via SSL encryption. Where we have given you (or where you have chosen) a password that enables you to access certain features of the Service, you are responsible for keeping this password confidential. Please remember that unfortunately, the transmission of information via the internet is not completely secure, so although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted via the Service; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+
+Contact
+
+legal@pubexchange.com
+
+Version Control
+https://github.com/pubexchange/legal
