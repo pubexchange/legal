@@ -8,8 +8,6 @@ Billing
 
 Payment can be made through credit cards or invoiced payments. If you elect to pay via credit card, PubExchange will automatically charge your credit card monthly. If PubExchange is unable to process your transaction using the credit card information provided, PubExchange reserves the right to suspend or revoke access to your account. If you elect to receive invoices, PubExchange shall invoice you on or about the first day of each calendar month for fees and expenses incurred during the upcoming month and you agree to pay each invoice within thirty (30) days after receipt.
 
-If you have opted to pay the licensing fee, but no longer qualify for your licensing fee level, you will be notified by a PubExchange representative and given a 30-day grace period to either pay for the more expense licensing fee, or revert your account back to the free, ad-supported account.
-
 PubExchange may change the fees and charges in effect, or add new fees and charges from time to time, but we will give you advance notice of these changes by email. If you want to use a different credit card or if there is a change in your credit card validity or expiration date, you may edit your information by accessing your account page. If your credit card reaches its expiration date, your continued use of the PubExchange constitutes your authorization for us to continue billing that credit card and you remain responsible for any uncollected amounts. It is your responsibility to keep your contact information and payment information current and updated.
 
 Ending Licensing Agreement
