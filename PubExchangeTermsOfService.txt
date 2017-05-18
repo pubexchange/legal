@@ -88,7 +88,7 @@ These Terms of Use shall continue until terminated as set forth in this Section.
 
 Payment
 
-Payment processing services on PubExchange are provided by ".anchor("https://www.stripe.com","Stripe","target=_blank")." and are subject to the Stripe Connected Account Agreement (https://stripe.com/connect-account/legal), which includes the Stripe Terms of Service (https://stripe.com/legal) (collectively, the "Stripe Services Agreement"). By agreeing to This Agreement or continuing to use the Service, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of PubExchange enabling payment processing services through Stripe, you agree to provide PubExchange accurate and complete information about you and your business, and you authorize PubExchange to share it and transaction information related to your use of the payment processing services provided by Stripe.
+Payment processing services on PubExchange are provided by Stripe (https://www.stripe.com) and are subject to the Stripe Connected Account Agreement (https://stripe.com/connect-account/legal), which includes the Stripe Terms of Service (https://stripe.com/legal) (collectively, the "Stripe Services Agreement"). By agreeing to This Agreement or continuing to use the Service, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of PubExchange enabling payment processing services through Stripe, you agree to provide PubExchange accurate and complete information about you and your business, and you authorize PubExchange to share it and transaction information related to your use of the payment processing services provided by Stripe.
 
 Government Use
 
