@@ -1,0 +1,120 @@
+PubExchange Branded Content Agreement
+
+THIS BRANDED CONTENT AGREEMENT is entered into by and between On the Vine Media, LLC (\"PubExchange\") and the entity using the PubExchange Branded Content dashboard (\"Publisher\"). This Agreement governs Publisher’s use of the PubExchange Branded Content Service. 
+
+
+1. Service
+
+1.1 PubExchange created, controls and operates the products and services available at the website located at the URL www.pubexchange.com (the \"Site\"). The Site features PubExchange's proprietary technology in its various forms (collectively, the \"Service\") which may be used on the Site to publish new articles or videos (\"Branded Content\") created by online web sites using the PubExchange platform (each an \"Advertiser\") or by other online web sites using the PubExchange platform (each a \"Promoter\") by connecting Advertisers to Promoters (each a \"Branded Content Partnership\") and such Promoters may agree to publish and promote Branded Content on behalf of such Advertisers in exchange for a fee (\"Promoter Fee\").
+
+1.2 PubExchange will make reports available to Advertisers and Promoters through the PubExchange dashboard, which provide information including, but not limited to, the number of readers of Branded Content, the number of clicks on hyperlinks within Branded Content, and the average time spent reading Branded Content.
+
+
+2. Limited License by PubExchange
+
+2.1 PubExchange hereby grants to Publisher during the Term (as defined below) a limited, worldwide, non-exclusive, royalty free, non-transferrable license to use the Service, software, data and information or other intellectual property provided to Publisher in connection with the Service.
+
+
+3. Branded Content
+
+3.1 Publisher grants PubExchange a limited, non-exclusive, fully paid-up, royalty free, worldwide right to use Branded Content that Publisher creates and uploads to PubExchange (\"Publisher-Created Branded Content\") as well as Publisher’s registered and unregistered trademarks, service marks, trade dress, graphics or logos (\"Publisher Marks\") for the sole purpose of providing the Service in any of the following: (i) on the Site; (ii) as any part of the Service; (iii) or in any other reasonable manner that Publisher might expect PubExchange to use Publisher-Created Branded Content and Publisher Marks.
+
+3.2 Publisher is solely responsible for determining the propriety and legality of the Publisher-Created Branded Content. Publisher represents and warrants that it owns Publisher-Created Branded Content or is authorized to grant the license set forth herein to PubExchange, and Partners (as defined below), as well as the use thereof by PubExchange and Partners will not violate the intellectual property rights, including, but not limited to copyrights, publicity rights, trademark rights, and privacy rights, of any person or entity. Publisher agrees to pay all royalties, and other fees owed to any person by reason of the publishing or promotion of Publisher-Created Branded Content.
+
+3.3 Publisher shall not provide Publisher-Created Branded Content that: (i) is obscene, defamatory, libelous, slanderous, pornographic, violent, profane, indecent or unlawful; (ii) is factually inaccurate, misleading or deceptive; or (iii) facilitates or promotes any type of illegal activity, including without limitation pyramid schemes, gambling, the sale or use of illegal drugs, or discrimination or harassment of any individual or group.
+
+
+4. Branded Content Partnerships
+
+4.1 To enter into a Branded Content Partnership, Publisher will either (i) create an Advertiser Campaign (as defined below) in the PubExchange platform, a Promoter will submit a Promoter Proposal (as defined below) for such Advertiser Campaign, and Publisher will accept such Promoter Proposal; or (ii) submit a Promoter Proposal for an Advertiser Campaign, and Advertiser that created such Advertiser Campaign will accept such Promoter Proposal (Promoter that submits Promoter Proposal to Publisher’s Advertiser Campaign in (i) and Advertiser that accepts Publisher’s Promoter Proposal in (ii) are each a \"Partner\").
+
+4.2 \"Advertiser Campaign\" is an online document that an Advertiser enters into that specifies: (i) the date Promoter Proposals are due, (i) the author of Branded Content, (ii) either a summary of the Branded Content that Advertiser would like a Promoter to create or the headline and content to be published, (iii) the Promoters eligible to submit Promoter Proposals, and (iv) certain other details relevant to Branded Content Partnership.
+
+4.3 \"Promoter Proposal\" is an online document that one or more Promoters enter into in response to Advertiser Campaign that specifies: (i) the Promoter Fee, (ii) the minimum number of readers of Branded Content (\"Minimum Readers\"), (iii) a pitch for the Branded Content describing the content that Promoter would produce, if Advertiser has not provided the headline and content in the Advertiser Campaign, (iv) the date the Branded Content will be published, (v) the date the Branded Content Partnership will end (\"Partnership End Date\"), and (v) certain other details relevant to Branded Content Partnership.
+
+
+5. Fees, Payments, Refunds, and Disputes
+
+5.1 Prior to accepting a Promoter Proposal, Publisher must have an amount of Publisher Credits (as defined below) equal to or greater than the sum total of Promoter Fee, Agency Fee (as defined below) and Platform Fee (as defined below) for such Promoter Proposal and the Promoter Fees, Agency Fees, and Platform Fees for all Branded Content Partnerships that have not been cancelled or become Completed Partnerships (as defined below).
+
+5.2 At Publisher’s behest, PubExchange will charge Publisher’s credit card for an amount Publisher specifies and such amount will be added to Publisher’s PubExchange account ("Publisher Credits"). An additional amount ("Processing Fee") will also be charged to Publisher’s credit card to account for the fees incurred by PubExchange from companies that process credit card charges, but Processing Fee will not be added to Publisher’s PubExchange account. 
+
+5.3 Publisher Credits and Processing Fees are refundable until the earlier of (i) 60 days from the date PubExchange charges Publisher’s credit card and (ii) the date the Publisher chooses to suspend or terminate this Agreement. Publisher may request a refund of any unspent Publisher Credits by emailing info@pubexchange.com. Notwithstanding the foregoing, Promoter Fees are non-refundable.
+
+5.4 If Publisher created Advertiser Campaign and Minimum Readers is not reached by Partnership End Date, then Publisher may choose to (i) reduce Promoter Fee by ten dollars ($10) for every ten readers of Branded Content less than Minimum Readers, (ii) extend Partnership End Date, or (iii) do nothing. By way of example, if Promoter Fee is one thousand dollars ($1,000) and the number of readers of Branded Content is twenty-five (25) less than Minimum Readers, then Promoter Fee can be decreased twenty dollars ($20) to nine-hundred eighty dollars ($980).
+
+5.5 If Publisher created Advertiser Campaign, then at any time during a Branded Content Partnership and within seven (7) days following Partnership End Date, Publisher can choose to mark Branded Content Partnership as complete by clicking a button in the PubExchange dashboard that says "Mark as Complete" ("Completed Partnership"). Once Publisher clicks such button, PubExchange will decrement from Publisher Credits an amount equal to the sum of Promoter Fee, an amount to account for PubExchange’s grants of rights and other undertaking under this Agreement ("Agency Fee"), and an amount to account for applicable taxes, and other fees, costs, and charges associated with the Service including, without limitation, promotional marketing, and standard serving and operational support costs ("Platform Fee"). Alternatively, if Publisher does not believe Partner has fulfilled the obligations outlined in Promoter Proposal, Publisher can mark Branded Content Partnership as disputed by clicking a button in the PubExchange dashboard that says "Dispute Partnership" ("Disputed Partnership"). Once Publisher clicks such button, Publisher and Partner can then determine whether an update should be made to the Promoter Fee, if any. If parties agree to update the Promoter Fee, Publisher may request an update to the Promoter Fee by emailing info@pubexchange.com. Once update is made, Branded Content Partnership will become Completed Partnership. If no update is made within seven (7) days of Branded Content Partnership becoming Disputed Partnership, Branded Content Partnership will become Completed Partnership. Any disputes between Publisher and a Partner must be resolved by Publisher and such Partner, and PubExchange expressly disclaims all responsibility and liability with respect to such disputes. If Branded Content Partnership does not become Completed Partnership or Disputed Partnership within seven (7) days following Partnership End Date, Branded Content Partnership will become Completed Partnership.
+
+
+6. Earnings
+
+6.1 Publisher’s sole compensation for its grants of rights and other undertakings under this Agreement shall be to receive an amount equal to Promoter Fee, minus the total amount of charge-backs, and credits and refunds to Partners (the \"Publisher Share\").
+
+6.2 Within seven (7) days of Branded Content Partnership becoming Completed Partnership, PubExchange will provide Publisher with a statement and remit payment in the amount of Publisher Share to Publisher, minus Transfer Fee (as defined below), if applicable. Any dispute regarding a payment from PubExchange hereunder must be submitted to PubExchange in writing within thirty (30) days of date Publisher received Publisher Share or it shall be deemed waived.
+
+6.3 Payment of Publisher’s Share can be made to bank accounts in the following countries without incurring a fee to process the transfer of the payment (\"Transfer Fee\"): United States (\"No-Fee Payment Countries\"). If Publisher does not have an account in one of the No-Fee Payment Countries, Publisher may either (i) accrue Publisher’s Share as Publisher Credits and use such Publisher Credits to approve Promoter Proposals or to purchase traffic through the Service; or (ii) receive payment to bank accounts in various international countries that are serviced by PayPal’s Payouts service, available at https://developer.paypal.com/docs/payouts/reference/country-and-currency-codes/ (\"Fee Payment Countries\"), but incur Transfer Fee. 
+
+6.4 To receive payment of the Publisher’s Share in No-Fee Payment Countries, Publisher must provide any information necessary for PubExchange to comply with applicable tax information reporting or withholding obligations under the US Internal Revenue Code, Treasury Regulations, and Internal Revenue Service guidelines and instructions, including, but not limited to IRS Forms W-9, and other necessary information such as employer identification number, for tax purposes. Payment processing services for the Publisher’s Share to No-Fee Payment Countries are provided by Stripe and are subject to the Stripe Terms of Service, available at https://stripe.com/us/terms. 
+
+6.5 To receive payment of the Publisher’s Share in Fee Payment Countries, Publisher must authorize PubExchange access to send payment to Publisher’s PayPal account by clicking \"Connect PayPal Account\" button in the PubExchange dashboard. Payments made to Fee Payment Countries are subject to the PayPal Terms of Service, available at https://www.paypal.com/us/webapps/mpp/ua/useragreement-full.
+
+
+7. Term and Cancellation
+
+7.1 The Agreement may be suspended or terminated: (i) by Publisher for any reason upon two (2) business days' written notice to PubExchange, or (ii) by PubExchange for any reason upon thirty days (30) days’ written notice to Publisher. At the time of cancellation, (a) all Branded Content Partnerships where Publisher created Advertiser Campaigns will become Completed Partnerships, (b) all Branded Content Partnerships where Publishers submitted Promoter Proposals, but have not yet become Completed Partnerships will be cancelled, and (c) remaining Publisher Credits will be unrefundable.
+
+
+8. Confidentiality
+
+8.1 Publisher agrees that with respect to any Confidential Information (as defined below) that is disclosed by PubExchange to Publisher in connection with the Agreement, Publisher receiving such Confidential Information shall not disclose such Confidential Information to any third party, or use it for any purpose, except in connection to its rights and obligations under the Agreement. \"Confidential Information\" means all information concerning PubExchange or any of its subsidiaries or affiliates that is not generally known to the public, which information is marked confidential or proprietary, or which under the circumstances ought reasonably to be treated as confidential or proprietary, and includes, without limitation, the terms of the Agreement. Notwithstanding the foregoing, Confidential Information does not include information that: (i) is, as of the time of disclosure, or thereafter becomes, part of the public domain through a source other than the receiving party; (ii) was lawfully in the possession of the receiving party as of the time of disclosure; (iii) is independently developed by the receiving party without reference to the Confidential Information; or (iv) is subsequently obtained from a third party not subject to an obligation of confidentiality with respect to the information disclosed.
+
+8.2 Confidential Information shall be kept in the strictest confidence and shall be protected by all reasonable and necessary security measures. Confidential Information shall not be released by the receiving party to anyone except an employee or agent, who has a need to know same, and who is bound by confidentiality obligations at least as restrictive as these contained herein. Neither party will use any portion of Confidential Information provided by the other party pursuant to the Agreement for any purpose other than as expressly set forth under the Agreement. Notwithstanding the foregoing, either party may disclose Confidential Information strictly necessary to comply with the demands of any court order, law or governmental agency and PubExchange may share Confidential Information of Publisher with any holding company of Publisher or with any subsidiary company of Publisher’s holding company.
+
+
+9. Additional Representations and Warranties/Disclaimers
+
+9.1 Publisher represents and warrants to PubExchange that: (i) it has all necessary rights and authority to enter into the Agreement and grant the rights and licenses under the Agreement; and (ii) the execution or acceptance of the Agreement, and the performance of its respective obligations and duties pursuant to the Agreement, do not and will not violate any agreement to which such party is bound.
+
+9.2 Publisher further represents and warrants that: (i) the Publisher-Created Branded Content does not violate any applicable laws, rules and regulations and will not contain any material which may be harmful, abusive, obscene, threatening or defamatory; (ii) it has all necessary rights to permit and grants PubExchange pursuant to the Agreement all such rights which are necessary for PubExchange to (as applicable) use, host, cache, route, store, copy, modify, distribute, reformat, reproduce, publish, display, and transmit the Publisher-Created Branded Content; and (iii) use of the Publisher-Created Branded Content in accordance with the Agreement will not infringe any intellectual property rights of any third party.
+
+9.3 If Publisher is a third party acting on behalf of the provider of the Publisher-Created Branded Content, Publisher represents and warrants that: (i) it is the authorized agent of the provider of the Publisher-Created Branded Content; (ii) it has the legal authority to enter into the Agreement and make all decisions and take all actions relating to the provider of the Publisher-Created Branded Content; (iii) it has entered into a written agreement granting the agent the authority to represent the provider of the Publisher-Created Branded Content in accordance with (i) and (ii) above (and shall submit such agreement to PubExchange on demand).
+
+9.4 EXCEPT AS MAY BE EXPRESSLY SET FORTH IN THE AGREEMENT, PUBEXCHANGE MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED -- INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE, OR ANY WARRANTIES ARISING FROM A COURSE OF DEALING, USAGE OR TRADE PRACTICE -- ABOUT ITS SERVICES AND THE PERFORMANCE OR SUCCESS OF ANY BRANDED CONTENT PARTNERSHIPS, OR THAT THE SERVICE WILL OPERATE UNINTERRUPTED, SECURE OR ERROR FREE.
+
+
+10. Indemnification
+
+10.1 Publisher agrees to defend, indemnify, and hold harmless PubExchange and its respective agents, affiliates, subsidiaries, directors, officers, employees, and contractors against any and all third party claims, demand, damage, loss, or liability, including reasonable attorney’s fees arising out of or relating to this Agreement, the Site, or the Service, including, but not limited to: (i) your use, non-use or misuse of, promotion, distribution, or connection to Branded Content, produced by Partner or Publisher, (ii) your violation of any rights of a third party and otherwise as set out herein.
+
+10.2 In connection with any such claim: (i) PubExchange shall provide prompt written notice to Publisher of any such claim (provided that the failure to provide such prompt notice shall not relieve Publisher of its indemnification obligations in the Agreement, except to the extent it has been damaged thereby); (ii) PubExchange shall have sole control of the defense or settlement of the claim and Publisher may not enter into any settlement that may adversely affect the rights or obligations of PubExchange without PubExchange’s prior written consent; and (iii) PubExchange shall have the right to participate in its defense with counsel of its own choosing at the Publisher’s expense.
+
+
+11. Limitation of Liability
+
+11.1 TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL (A) PUBEXCHANGE BE LIABLE TO PUBLISHER FOR ANY LOST PROFITS OR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON BREACH OF CONTRACT, BREACH OF WARRANTY, ANY INDEMNIFICATION OBLIGATION, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY PROVIDED HEREIN, OR (B) PUBEXCHANGE CUMULATIVE LIABILITY HEREUNDER EXCEED ONE THOUSAND DOLLARS ($1,000).
+
+
+12. Miscellaneous
+
+12.1 Publisher may not assign the Agreement, in whole or in part, by operation of law or otherwise, without the prior written consent of PubExchange; provided, however that Publisher may assign its rights or delegate its duties under the Agreement, in whole or in part, without PubExchange's consent, in connection with a merger, reorganization or sale of all, or substantially all, of the assignor's assets, provided that the successor entity shall have sufficient resources to fully perform the Agreement and shall assume the obligation to fully perform the Agreement.
+
+12.2 The Agreement shall be governed by and construed in accordance with the laws of the State of New York applicable to contracts entered into and wholly to be performed therein, without regard to that body of law relating to conflict of laws. Each party hereby irrevocably and unconditionally consents to submit to the exclusive jurisdiction of the courts of the State of New York and of the United States of America, in each case located in the County of New York, for any claim arising out of or relating to the Agreement (and agrees not to commence any claim relating thereto except in such courts).
+
+12.3 No press releases or general public announcements shall be made without the consent of PubExchange. PubExchange shall have the right to include Publisher’s name on PubExchange’s client list and in other marketing materials.
+
+12.4 No failure of PubExchange to enforce any of its rights under the Agreement will act as a waiver of such rights. If one or more provisions of the Agreement are held to be unenforceable under applicable law, then such provision(s) shall be excluded from the Agreement, and the balance of the Agreement shall be enforceable in accordance with its terms.
+
+12.5 PubExchange shall not be liable for any delay or failure to perform any of its obligations set forth in the Agreement due to causes beyond its reasonable control. PubExchange shall not be liable for any unavailability or inoperability of the Internet, technical malfunction, or computer error or corruption resulting in loss of data or other harm.
+
+12.6 Sections 8, 9, 10, 11, and 12 together with any outstanding undisputed payment obligation, shall survive the termination of the Agreement.
+
+12.7 Publisher and PubExchange shall each act as independent contractors. Nothing in the Agreement shall be deemed or create or construed as creating a joint venture or partnership between the parties.
+
+12.8 The Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof, and may not be modified without the prior written consent of both parties.  
+
+
+Contact
+legal@pubexchange.com
+
+Version Control
+https://github.com/pubexchange/legal
