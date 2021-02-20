@@ -26,6 +26,8 @@ Within three (3) days of PubExchange collecting any revenue attributable to the 
 
 Credits shall be calculated and settled based on records maintained by PubExchange, and no other records will be deemed relevant for Credit calculations or determinations. PubExchange may withhold making Credits available to Publisher, if PubExchange, in its sole reasonable discretion, believes that the performance related to them are fraudulent or invalid in nature or if PubExchange was charged or back credited in their respect by the customer.
 
+In the event you uninstall Module, you have ninety (90) days from the date Module is uninstalled to make use of Credits. After such time, you shall forfeit your right to make use of Credits.
+
 Content Submitted or Made Available for Inclusion on the Service
 
 By submitting any Content, you hereby grant Company a limited, non-exclusive, fully paid-up, royalty free, worldwide right to use such Content and your registered and unregistered trademarks, service marks, trade dress, graphics or logos ("Publisher Marks") in any of the following: (i) on the Site, any Company blog or newsletter; (ii) on any business development, commercial sales materials, or press releases; (iii) as any part of the Service, such as on a Partner's web site; (iv) or in any other reasonable manner that a Publisher might expect Company to use its Publisher Marks.
@@ -49,6 +51,8 @@ As a condition of use, you promise not to use the Service or the Data for any pu
 The following sites are strictly prohibited from using the Service and Company will actively terminate the Service from sites it finds to be in violation of these prohibitions: sites displaying adult, obscene, pornographic, libelous, infringing abusive or defamatory content, sites participating in, or encouraging participation in, illegal activities, sites that promote hate and discrimination, sites that facilitate the sale of firearms or illegal drugs. In addition, Company reserves the right in its sole editorial discretion to disable its Service on any site.
 
 Company, in its sole discretion, may remove any Content from the Site for any reason (including, but not limited to, upon receipt of claims or allegations from third parties or authorities relating to such Content), at any time.
+
+In the event you use the Service or the Data for any purpose that is unlawful or prohibited by these Terms of Use, you immediately shall forfeit your right to make use of Credits. The Company and Publisher acknowledge and agree that the foregoing remedies are in addition to, and not in lieu of, any and all other legal and/or equitable remedies that may be available to Company in connection with Publisher's unlawful or prohibited use of the Service or the Data set forth in these Terms of Use.
 
 License of the Service
 
@@ -84,7 +88,7 @@ You agree to indemnify, defend and hold harmless Company, its parents, subsidiar
 
 Term and Termination
 
-These Terms of Use shall continue until terminated as set forth in this Section. Company, in its sole discretion, may terminate or suspend user accounts at any time for any reason or for no reason at all, without prior notice or liability to you. Upon termination of your account, your right to use the Service will immediately cease. Upon termination of these Terms of Use for any reason, you shall destroy and remove from all computers, hard drives, networks, and other storage media all copies of the Service, the Code and any the Data, and shall so certify, if requested, to Company that such actions have occurred. If you wish to terminate your Company account, you may simply discontinue using the Service. All provisions of these Terms of Use which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+These Terms of Use shall continue until terminated as set forth in this Section. Company, in its sole discretion, may terminate or suspend user accounts at any time for any reason or for no reason at all, without prior notice or liability to you. Upon termination of your account, your right to use the Service will immediately cease. Upon termination of these Terms of Use for any reason, you shall destroy and remove from all computers, hard drives, networks, and other storage media all copies of the Service, the Code and any the Data, and shall so certify, if requested, to Company that such actions have occurred. If you wish to terminate your Company account, you may click a button in the PubExchange dashboard that says "Wind Down Account" or simply discontinue using the Service. At which point, you will have ninety (90) days to make use of Credits. After such time, you shall forfeit your right to make use of Credits. All provisions of these Terms of Use which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability. 
 
 Payment
 
